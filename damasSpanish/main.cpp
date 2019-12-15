@@ -18,6 +18,7 @@ void tablero(int matrix[FILAS][COLUMNAS]);//Dibuja el tablero
 
 int intro(){
     int op=0;
+    cout << "\033[2J\033[1;1H";
     do{
         do{
             cout<<"\t\t_____________________________________________________________________"<<endl;
