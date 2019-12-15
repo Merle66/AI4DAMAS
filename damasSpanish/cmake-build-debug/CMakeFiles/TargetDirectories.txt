@@ -1,0 +1,3 @@
+C:/Users/merle/CLionProjects/Actividad Individual 4/damasSpanish/cmake-build-debug/CMakeFiles/damasSpanish.dir
+C:/Users/merle/CLionProjects/Actividad Individual 4/damasSpanish/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/merle/CLionProjects/Actividad Individual 4/damasSpanish/cmake-build-debug/CMakeFiles/rebuild_cache.dir
